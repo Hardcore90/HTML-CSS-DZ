@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-wrp {
+    margin-top: 40px;
+    margin-bottom: 84px;
+}
+
+.top-content-title {
+    margin-bottom: 17px;
+}
+
+.top-content-txt {
+    margin-bottom: 37px;
+}
+
+.top-content-info {
+    margin-bottom: 162px;
+}
+
+.top-content-logos {
+    padding: 97px 0;
+}
